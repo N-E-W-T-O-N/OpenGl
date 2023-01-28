@@ -10,3 +10,9 @@ To run the following program type the following command in terminal
 ```
 g++ [FILE NAME].cpp -lglut -lGL -lGLU  && ./a.out
 ```
+
+
+# Exmple
+
+
+<img src="img/Clock_Tower.png" width="128"/>
