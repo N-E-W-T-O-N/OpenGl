@@ -13,6 +13,4 @@ g++ [FILE NAME].cpp -lglut -lGL -lGLU  && ./a.out
 
 
 # Exmple
-
-
-<img src="img/Clock_Tower.png" width="128"/>
+![img/Name.png](https://github.com/N-E-W-T-O-N/OpenGl/blob/main/img/Clock_Tower.png)
